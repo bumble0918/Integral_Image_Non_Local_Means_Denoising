@@ -1,0 +1,3 @@
+Main:
+basicSection.m - Template matching for naive SSD
+advancedSection.m - Non local means template matching
